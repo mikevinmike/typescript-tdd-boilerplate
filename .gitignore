@@ -1,0 +1,9 @@
+.DS_Store
+.idea
+*~
+coverage
+node_modules
+typings
+npm-debug.log
+app/**/*.js
+app/**/*.map
